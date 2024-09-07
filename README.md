@@ -1,6 +1,6 @@
 # Full Fine-Tuning of Flan-t5-base Model
 
-This project demonstrates the process of fully fine-tuning the Flan-T5-Base model for the NVIDIA question-answering task. The main objective of this project is to provide beginners with hands-on experience in fine-tuning a large language model, rather than achieving a perfect model.
+This project demonstrates the process of fully fine-tuning the Flan-T5-Base model for the NVIDIA question-answering task. 
 
 ## Environment Setup
 
